@@ -180,11 +180,9 @@ Father’s Education ANOVA p-value: 0.4990
 git clone https://github.com/RaGR/student-grade-analysis.git
 cd student-grade-analysis
 
-# Install dependencies
-pip install -r requirements.txt
-
 # Open Jupyter Notebook
 jupyter notebook student_analysis.ipynb
+# or with VScode extentions
 ````
 
 ---
